@@ -1,0 +1,2 @@
+npx create-expo-app@latest auro-app --template blank@latest
+
